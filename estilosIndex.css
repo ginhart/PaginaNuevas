@@ -5,6 +5,14 @@ body {
     background-image: url(img/webDevOpac.jpg);
 }
 
+#Introduccion{
+    font-weight: bold;
+}
+
+#Proyecto{
+    font-weight: bold;
+}
+
 h1{
     background-color: darkblue;
     color: white;
@@ -58,7 +66,4 @@ h1{
   }
 
 
-/*
-    Created on : 14 feb 2019, 11:21:30
-    Author     : Diego Cortazar
-*/
+
